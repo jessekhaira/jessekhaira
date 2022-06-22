@@ -11,9 +11,9 @@ On the side, I really enjoy writing, creating content, and teaching. I specifica
 
 I really enjoy providing help to others considering or currently pursuing the self-learning path in web development and/or machine learning since I know firsthand just how difficult it is. If this is you, please don't hestitate to reach out, I'd love to help! :) 
 
-If you'd like to connect, you can best reach me at: jesse.khaira10 [at] gmail [dot] com 
+If you'd like to connect, you can best reach me at: [jesse.khaira10@gmail.com](mailto:jesse.khaira10@gmail.com)
 
 ### Links
-- [Personal Website/Blog](https://www.jessekhaira.com)
+- [Website/Blog](https://www.jessekhaira.com)
 - [LinkedIn](https://www.linkedin.com/in/jesse-khaira)
 - [Medium](https://medium.com/@jesse.khaira)
