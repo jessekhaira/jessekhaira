@@ -1,4 +1,4 @@
-# Hi There! I'm Jesse 👋
+## Hi There! I'm Jesse 👋
 
 I'm a fullstack machine learning engineer that transitioned to tech after graduating from university as a chemical engineer. 
 
@@ -13,7 +13,7 @@ I really enjoy providing help to others considering or currently pursuing the se
 
 If you'd like to connect, you can best reach me by [email](mailto:jesse.khaira10@gmail.com) or LinkedIn.
 
-## Links
+### Links
 - [Personal Website & Blog](https://www.jessekhaira.com)
 - [LinkedIn](https://www.linkedin.com/in/jesse-khaira)
 - [Medium](https://medium.com/@jesse.khaira)
