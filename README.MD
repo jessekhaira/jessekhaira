@@ -14,6 +14,6 @@ I really enjoy providing help to others considering or currently pursuing the se
 If you'd like to connect, you can best reach me by [email](mailto:jesse.khaira10@gmail.com) or LinkedIn.
 
 ## Links
-[Personal Website & Blog](https://www.jessekhaira.com)
-[LinkedIn](https://www.linkedin.com/in/jesse-khaira)
-[Medium](https://medium.com/@jesse.khaira)
+- [Personal Website & Blog](https://www.jessekhaira.com)
+- [LinkedIn](https://www.linkedin.com/in/jesse-khaira)
+- [Medium](https://medium.com/@jesse.khaira)
