@@ -9,7 +9,7 @@ On the side, I really enjoy writing, creating content, and teaching. I specifica
 - 📖 Self-learning & transitioning to tech
 - 🤖 Simplifying complicated technical concepts 
 
-I really enjoy providing help to anyone transitioning into web development and/or machine learning from another field, since I know firsthand just how difficult it is. If this is you, please don't hestitate to reach out, I'd love to help! :) 
+I also really enjoy providing help to others transitioning into web development and/or machine learning from another field, especially to individuals considering or currently pursuing the self-learning path. If this is you, please don't hestitate to reach out, I'd love to help! :) 
 
 If you'd like to connect, you can best reach me at: [jesse.khaira10@gmail.com](mailto:jesse.khaira10@gmail.com)
 
