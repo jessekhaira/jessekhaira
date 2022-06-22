@@ -1,4 +1,4 @@
-## Hi There! I'm Jesse 👋
+### Hi There! I'm Jesse 👋
 
 I'm a fullstack machine learning engineer that transitioned to tech after graduating from university as a chemical engineer. 
 
