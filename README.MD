@@ -2,7 +2,7 @@
 
 I'm a fullstack machine learning engineer that transitioned to tech after graduating from university as a chemical engineer. 
 
-Currently, I'm working at my own business as a technology consultant, specializing in production machine learning, but comfortable working anywhere thats needed on the stack. 
+I'm currently working at my own business as a technology consultant, specializing in production machine learning, but comfortable working anywhere on the stack. 
 
 On the side, I really enjoy writing, creating content, and teaching. I specifically try to create helpful educational content centered around:
 - 💡 Sharing useul insights I've gained from my own experiences
