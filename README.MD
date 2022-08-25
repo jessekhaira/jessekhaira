@@ -14,6 +14,5 @@ I also really enjoy providing help to anyone transitioning into web development 
 If you'd like to connect, you can best reach me at: [jesse.khaira10@gmail.com](mailto:jesse.khaira10@gmail.com)
 
 ### Links
-- [Website/Blog](https://www.jessekhaira.com)
 - [LinkedIn](https://www.linkedin.com/in/jesse-khaira)
 - [Medium](https://medium.com/@jesse.khaira)
