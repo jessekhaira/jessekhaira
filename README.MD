@@ -1,8 +1,6 @@
 ### Hi There! I'm Jesse 👋
 
-I'm a fullstack machine learning engineer that transitioned to tech after graduating from university as a chemical engineer. 
-
-I'm currently working at my own business as a technology consultant, specializing in production machine learning, but comfortable working anywhere on the stack. 
+I'm a fullstack machine learning engineer currently working at my own business as an engineering consultant. I'm comfortable working on the frontend, backend, and developing and deploying machine learning algorithms reliably.  
 
 On the side, I really enjoy writing, creating content, and teaching. I specifically try to create helpful educational content centered around:
 - 💡 Sharing useul insights I've gained from my own experiences
@@ -15,4 +13,3 @@ If you'd like to connect, you can best reach me at: [jesse.khaira10@gmail.com](m
 
 ### Links
 - [LinkedIn](https://www.linkedin.com/in/jesse-khaira)
-- [Medium](https://medium.com/@jesse.khaira)
