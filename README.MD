@@ -2,12 +2,7 @@
 
 I'm a fullstack machine learning engineer currently working at my own business as an engineering consultant. I'm comfortable working on the frontend, backend, and developing and deploying machine learning algorithms reliably.  
 
-On the side, I really enjoy writing, creating content, and teaching. I specifically try to create helpful educational content centered around:
-- 💡 Sharing useul insights I've gained from my own experiences
-- 📖 Self-learning & transitioning to tech
-- 🤖 Simplifying complicated technical concepts 
-
-I also really enjoy providing help to anyone transitioning into web development and/or machine learning from another field, especially for individuals considering or currently pursuing the self-learning path. If this is you, please don't hestitate to reach out, I'd love to help! :) 
+On the side, I really enjoy writing, creating content, teaching, and helping people understand (potentially) difficult concepts. I try to create helpful educational content centered around machine learning, software engineering, productivity, useful insights I've gained, and more.
 
 If you'd like to connect, you can best reach me at: [jesse.khaira10@gmail.com](mailto:jesse.khaira10@gmail.com)
 
