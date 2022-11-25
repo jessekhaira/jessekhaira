@@ -1,6 +1,6 @@
 ### Hi There! I'm Jesse 👋
 
-I'm a fullstack machine learning engineer currently working at my own business as an engineering consultant. I'm comfortable working on the frontend, backend, and developing and deploying machine learning algorithms reliably.  
+I'm a fullstack machine learning(ML) engineer currently working as an engineering/ML consultant. I'm comfortable working on the frontend, backend, and developing and deploying machine learning algorithms reliably.  
 
 On the side, I really enjoy writing, creating content, teaching, and helping people understand (potentially) difficult concepts. I try to create helpful educational content centered around machine learning, software engineering, productivity, useful insights I've gained, and more.
 
