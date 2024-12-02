@@ -1,4 +1,1 @@
-I like AI & marketing things. 
-
-### Links
-- [Blog](https://www.jessekhaira.com)
+I like AI & marketing + building things. 
