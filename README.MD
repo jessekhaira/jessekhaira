@@ -1,1 +1,1 @@
-I like AI & marketing + building things. 
+I like AI & building. 
